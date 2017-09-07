@@ -1,0 +1,15 @@
+{
+    "name": "szk213/sandbox-pukiwiki-plugin",
+    "authors": [
+        {
+            "name": "szk213",
+            "email": "s.szk213@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "codeception/codeception": "^2.3",
+        "codeception/specify": "^0.4.6",
+        "codeception/verify": "^0.4.0"
+    }
+}
